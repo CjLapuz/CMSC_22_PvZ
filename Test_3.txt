@@ -1,0 +1,98 @@
+P _ _ _ _ b C c c c 
+S P _ _ _ c _ b f f 
+S P _ _ b _ _ c _ f 
+P P C _ _ f c _ _ f 
+P _ _ b _ _ b b b b 
+sunlight: 500
+
+P _ _ _ b _ _ c c c 
+S P _ _ c _ b f f _ 
+S P _ b _ _ c _ f _ 
+P P C _ f c _ _ f _ 
+P _ b _ _ b b b b _ 
+sunlight: 700
+
+P _ _ b _ _ c c c _ 
+S P _ c _ b f f _ _ 
+S P b _ _ c _ f _ _ 
+P P C _ c _ _ f _ _ 
+P b _ _ b b b b _ _ 
+sunlight: 900
+
+P _ _ _ _ c c c _ _ 
+S P c _ b f f _ _ _ 
+S P _ _ c _ f _ _ _ 
+P P _ c _ _ f _ _ _ 
+P _ _ b b b b _ _ _ 
+sunlight: 1100
+
+P _ _ _ c c c _ _ _ 
+S P c b f f _ _ _ _ 
+S P _ c _ f _ _ _ _ 
+P P c _ _ f _ _ _ _ 
+P _ b b b b _ _ _ _ 
+sunlight: 1300
+
+P _ _ c c c _ _ _ _ 
+S P b f f _ _ _ _ _ 
+S P c _ f _ _ _ _ _ 
+P P _ _ f _ _ _ _ _ 
+P b b b b _ _ _ _ _ 
+sunlight: 1500
+
+P _ c c c _ _ _ _ _ 
+S P b f f _ _ _ _ _ 
+S P c f _ _ _ _ _ _ 
+P P _ f _ _ _ _ _ _ 
+P b b b _ _ _ _ _ _ 
+sunlight: 1700
+
+P c c c _ _ _ _ _ _ 
+S P b f f _ _ _ _ _ 
+S P c f _ _ _ _ _ _ 
+P P _ _ _ _ _ _ _ _ 
+P b b b _ _ _ _ _ _ 
+sunlight: 1900
+
+P c c _ _ _ _ _ _ _ 
+S P f f _ _ _ _ _ _ 
+S P f _ _ _ _ _ _ _ 
+P P _ _ _ _ _ _ _ _ 
+P b b b _ _ _ _ _ _ 
+sunlight: 2100
+
+P c c _ _ _ _ _ _ _ 
+S _ f f _ _ _ _ _ _ 
+S _ f _ _ _ _ _ _ _ 
+P P _ _ _ _ _ _ _ _ 
+P b b _ _ _ _ _ _ _ 
+sunlight: 2300
+
+P c c _ _ _ _ _ _ _ 
+S f f _ _ _ _ _ _ _ 
+S f _ _ _ _ _ _ _ _ 
+P P _ _ _ _ _ _ _ _ 
+P b b _ _ _ _ _ _ _ 
+sunlight: 2500
+
+P c c _ _ _ _ _ _ _ 
+S f f _ _ _ _ _ _ _ 
+S f _ _ _ _ _ _ _ _ 
+P P _ _ _ _ _ _ _ _ 
+_ b b _ _ _ _ _ _ _ 
+sunlight: 2700
+
+_ c c _ _ _ _ _ _ _ 
+_ f f _ _ _ _ _ _ _ 
+_ f _ _ _ _ _ _ _ _ 
+P P _ _ _ _ _ _ _ _ 
+b b _ _ _ _ _ _ _ _ 
+sunlight: 2900
+
+c c _ _ _ _ _ _ _ _ 
+f f _ _ _ _ _ _ _ _ 
+f _ _ _ _ _ _ _ _ _ 
+P P _ _ _ _ _ _ _ _ 
+b b _ _ _ _ _ _ _ _ 
+sunlight: 2900
+
